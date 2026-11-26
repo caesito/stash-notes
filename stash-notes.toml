@@ -1,0 +1,11 @@
+[storage]
+workspace = "./"
+use_current_directory = false
+
+[editor]
+auto_save = true
+auto_save_delay_ms = 300
+
+[interface]
+theme = "dark"
+show_preview = true
